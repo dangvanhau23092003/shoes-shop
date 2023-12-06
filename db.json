@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "productName": "Giày Nike Trắng Air Force 1 Cổ Thấp Thể Thao Nam Nữ",
+      "price": 15000000,
+      "category": "nike",
+      "shortDesc": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "description": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://vn-test-11.slatic.net/p/53a36795a3fbe3565249c8eea4105ca7.jpg",
+      "id": "01"
+    },
+    {
+      "productName": "Stone and Beam Westview Extra Sofa",
+      "price": 193000,
+      "category": "adidas",
+      "shortDesc": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "description": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://lzd-img-global.slatic.net/g/p/2d53d3599e3d60ad8e7f7e06fd52ec96.jpg_720x720q80.jpg",
+      "id": "02"
+    },
+    {
+      "id": "04",
+      "productName": "Giày Adidas Super Star Trắng Sọc Đen",
+      "imgUrl": "https://giaygiare.vn/upload/sanpham/adidas-superstar-cappuccino-white.jpg",
+      "category": "adidas",
+      "price": 250000,
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Đây là một mẫu giày thời thượng với thiết kế đơn giản nhưng đem lại sự tinh tế cho người đi, với thiết kế nhẹ nhàng và tinh tế, mẫu giày Adidas Super Star trắng sọc đen luôn được nhiều bạn trẻ lựa chọn, tại shop Giày Nation, mẫu giày Adidas trắng này luôn được bán đi với số lượng lớn trong thời gian ngắn.",
+      "reviews": [
+        {
+          "name": "Van Hau",
+          "avatar": "https://cdn.punchng.com/wp-content/uploads/2023/02/03195249/skysports-lionel-messi-cristiano-ronaldo_6018613-e1675450369830.jpg",
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "name": "Cristian Ronaldo",
+          "avatar": "https://cdn.punchng.com/wp-content/uploads/2023/02/03195249/skysports-lionel-messi-cristiano-ronaldo_6018613-e1675450369830.jpg",
+          "rating": 4.8,
+          "text": "Very good 😃"
+        }
+      ],
+      "avgRating": 4.7
+    },
+    {
+      "productName": "Giày MLB BigBall Chunky A-Line New York Yankees",
+      "price": 253000,
+      "category": "mlb",
+      "shortDesc": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "description": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://product.hstatic.net/200000384787/product/y_mlb_bigball_chunky_a-line_new_york_yankees_black_3ashcls2n-50bks__2__15d8258edff54dfeb5bac78c2c131560_master.jpg",
+      "id": "05"
+    },
+    {
+      "productName": "Giày MLB BigBall Chunky A-Line New York Yankees",
+      "price": 400000,
+      "category": "mlb",
+      "shortDesc": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "description": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://cdn.vortexs.io/api/images/db5c3dca-6807-4392-8a1c-e462c394938b/1920/w/700k-giay-mlb-bigball-chunky-mono-heel-new-york-3ashcm11n-50bks-o.jpeg",
+      "id": "06"
+    },
+    {
+      "productName": "Giày MLB Bigball Chunky A NY Yankees",
+      "price": 800000,
+      "category": "mlb",
+      "shortDesc": "MLB Bigball Chunky A NY Yankees – mẫu giày làm mưa làm gió trên thị trường sneaker. Lấy cảm hứng từ bóng chày, dòng giày có thiết kế hầm hố, đế cao, đường may, cắt xẻ độc đáo, khác hẳn với những thiết kế của giày sneaker truyền thống. Phần thân và đế giày đều được làm từ các chất liệu cao cấp mang lại cho bạn cảm giác đi thoải mái nhất. ",
+      "description": "Giá tốt nhất trên thị trường, sản phẩm chất lượng.\nN2K cam kết chỉ bán giày chuẩn Rep 1:1 – Siêu Cấp – Like Auth.\nN2K cam kết 100% tất cả ảnh đều là ảnh thật shop tự chụp. Quý khách được kiểm tra hàng ưng ý mới thanh toán.\nGiao hàng toàn quốc đồng giá 30k, FREESHIP với đơn hàng trên 1 triệu.\nBảo hành 6 tháng, được đổi trả thoải mái trong 14 ngày.\nQuá trình đóng gói 2 lớp cực cẩn thận để hộp sản phẩm và sản phẩm luôn trong tình trạng mới nhất khi đến tay khách hàng.",
+      "imgUrl": "https://n2k.vn/wp-content/uploads/2022/07/HMR01263-1536x1536.jpg",
+      "id": "A71ylru"
+    },
+    {
+      "productName": "Giày Nike Air Force 1 White Xanh Tím ",
+      "price": 1138000,
+      "category": "nike",
+      "shortDesc": "Giày Nike Air Force 1 White Xanh Tím Rep 1:1 là một trong những phiên bản độc đáo và thu hút sự chú ý trong thế giới thời trang hiện nay. Với sự hòa quyện giữa phong cách thời thượng và chất lượng vượt trội, đôi giày này đã chinh phục hàng triệu trái tim của những người yêu thời trang và đam mê sự hoàn hảo. Hãy cùng khám phá tại sao giày Nike Air Force 1 White Xanh Tím Rep 1:1 là một sự lựa chọn đáng giá và cuốn hút đối với tín đồ thời trang.",
+      "description": "Vẻ Đẹp Tinh Tế Từ Thiết Kế Đột Phá\nGiày Nike Air Force 1 White Xanh Tím Rep 1:1 là sự kết hợp hài hòa giữa\n\nMàu trắng tinh khôi và gam màu xanh tím bí ẩn.\nThiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính.\nChất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ.\nĐôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://giaysneaker.com.vn/public/media//thumb/giay-nike-air-force-1-white-xanh-tim-rep-11-3-570x570.jpg",
+      "id": "5Oj3gun"
+    },
+    {
+      "productName": "Giày Nike Jordan1 Low Shadow",
+      "price": 2200000,
+      "category": "nike",
+      "shortDesc": "Hàng đang có sẵn 40-41-42-43-44 tại shop,các size khác phải đặt hàng trước các khách nhé.\nThời gian đặt hàng từ 7-9 ngày hàng sẽ về tại shop.\nPhiên bản chất lượng đẹp nhất hiện tại.\nCam đoan hình ảnh sản phẩm là ảnh thật 100% được chụp tại shop, nói không với ảnh mạng ảnh xưởng.\nSử dụng nguyên liệu da leather 100% so với nguyên bản chính hãng.\nCác chi tiết trên giày được chỉnh sửa giống nhất có thể theo nguyên bản chính hãng.\nHàng hóa đầy đủ phụ kiện thay thế đi kèm",
+      "description": "Giày Nike Jordan1 Low Shadow hay còn gọi với tên khác là Nike Air Jordan1 Low Black Smoke Grey. Là một trong những phối màu kinh điển của dòng giày cổ thấp. Không thể phủ nhận những hiệu ứng tích cực của phối màu này khi chiếm được rất nhiều thiện cảm của người hâm mộ. Để dễ dàng nhận biết phối màu này thì các khách có thể tìm kiếm trên google với mã CODE 553558-039.\n\nPhiên bản Low Shadow sử dụng 3 tone màu chủ đạo cơ bản là Xám khói, đen và một ít trắng làm nền ở phần trung tâm.\n\nSản phẩm sử dụng 100% da leather.\n\nHiện tại mức giá của phối màu này ngày càng tăng vì vậy các bạn hãy tranh thủ sở hữu cho bản thân một đôi giày ngay và luôn nhé ^^",
+      "imgUrl": "https://hystore.vn/wp-content/uploads/2020/12/x2.jpg",
+      "id": "Sru6KyM"
+    },
+    {
+      "productName": "Giày Converse 1970s High Black White",
+      "price": 1320000,
+      "category": "converse",
+      "shortDesc": "Bạn đã mua hàng của HKonestar chưa, nếu chưa thì đây là lý do bạn tin tưởng ạ?\n\nCam kết sản phẩm chính hãng 100%. Bao check trọn đời.\nHàng có sẵn SHIP nhanh toàn quốc.\nBảo hành sản phẩm 3 tháng.\nDịch vụ hỗ trợ FREE LEGIT CHECK cho khách đã mua sản phẩm dựa trên kinh nghiệm nhiều năm. Bất kể là mua của shop nào hay của ai HKonestar đều hỗ trợ cho khách. ",
+      "description": "Bạn đã mua hàng của HKonestar chưa, nếu chưa thì đây là lý do bạn tin tưởng ạ?\n\nCam kết sản phẩm chính hãng 100%. Bao check trọn đời.\nHàng có sẵn SHIP nhanh toàn quốc.\nBảo hành sản phẩm 3 tháng.\nDịch vụ hỗ trợ FREE LEGIT CHECK cho khách đã mua sản phẩm dựa trên kinh nghiệm nhiều năm. Bất kể là mua của shop nào hay của ai HKonestar đều hỗ trợ cho khách. ",
+      "imgUrl": "https://product.hstatic.net/200000502485/product/z3751562156200_f83c2f9648b28aeab8617f99409f9023__1__f5e5d60494a6485d8e458d2a80a8d26e_master.jpg",
+      "id": "4liNvCB"
+    },
+    {
+      "productName": "Giày Adidas Swift Run Trắng Đen Chính Hãng",
+      "price": 1230000,
+      "category": "adidas",
+      "shortDesc": "Phát hiện hàng fake - shop đền tiền x10 lần\n\nTình trạng new 100%, hàng xả kho giá off 50%, tặng box adidas.\n\n Swift Run là dòng giày với form dáng gọn nhẹ, đơn giản, bộ đế đã được cải tiến đem đến sự thoải mái cho người mang và không kém phần thanh lịch.\n\n Dù là tập luyện hay lifestyle, du lịch hay tiệc tùng đều rất phù hợp, chắc chắn sẽ không làm bạn thất vọng.\n\n Đây cũng chính là mẫu giày cực kì bán chạy không thua kém gì Superstar hay StanSmith.\n\n\n",
+      "description": "Phát hiện hàng fake - shop đền tiền x10 lần\n\nTình trạng new 100%, hàng xả kho giá off 50%, tặng box adidas.\n\n Swift Run là dòng giày với form dáng gọn nhẹ, đơn giản, bộ đế đã được cải tiến đem đến sự thoải mái cho người mang và không kém phần thanh lịch.\n\n Dù là tập luyện hay lifestyle, du lịch hay tiệc tùng đều rất phù hợp, chắc chắn sẽ không làm bạn thất vọng.\n\n Đây cũng chính là mẫu giày cực kì bán chạy không thua kém gì Superstar hay StanSmith.",
+      "imgUrl": "https://www.beater810.vn/storage/uploads/products/img-9393-1832.JPG",
+      "id": "yqPWKh7"
+    },
+    {
+      "productName": "Giày Adidas Alpha Bounce Beyond White ",
+      "price": 900000,
+      "category": "adidas",
+      "shortDesc": "Giày Adidas Alpha Bounce Beyond White được thiết kế với chất liệu cao cấp, đảm bảo độ bền vượt trội và khả năng chống trượt hiệu quả.\nĐôi giày Alpha Bounce Beyond White nổi bật với thiết kế tối giản, nhưng không kém phần sang trọng. Màu trắng trang nhã kết hợp cùng logo ba sọc nổi bật của Adidas tạo nên điểm nhấn hoàn hảo. Với phong cách hiện đại và trẻ trung, giày Alpha Bounce Beyond White dễ dàng phối cùng nhiều trang phục, từ trang phục thể thao, quần jeans cho đến váy và chân váy, giúp bạn tự tin tỏa sáng trong mọi dịp.",
+      "description": "Giày Adidas Alpha Bounce Beyond White được thiết kế với chất liệu cao cấp, đảm bảo độ bền vượt trội và khả năng chống trượt hiệu quả.\nĐặc biệt, công nghệ Bounce độc đáo của Adidas đã được tích hợp vào đế giày, mang đến sự linh hoạt, êm ái và hỗ trợ đáng kinh ngạc cho bàn chân của bạn.\nBạn sẽ cảm nhận ngay sự đàn hồi mạnh mẽ mỗi khi bước chân lên và cảm thấy tự tin hơn trong mọi hoạt động thể thao.",
+      "imgUrl": "https://giaysneaker.com.vn/public/media//thumb/giay-adidas-alpha-bounce-beyond-white-2-570x570.jpg",
+      "id": "2MAnOW_"
+    },
+    {
+      "productName": "Giày Puma Smash Vulc Canvas",
+      "price": 1100000,
+      "category": "puma",
+      "shortDesc": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "description": "Thiết kế cổ thấp và phong cách thời thượng mang đến vẻ đẹp tinh tế và cá tính. Chất liệu da cao cấp và đường may tỉ mỉ tạo nên một đôi giày vừa chắc chắn vừa bền bỉ. Đôi giày này không chỉ là món phụ kiện thời trang mà còn là biểu tượng cho sự tự tin và phong cách cá nhân của bạn.",
+      "imgUrl": "https://bsneakervn.vn/wp-content/uploads/2022/05/280390102_405277331446788_710641144207564111_n-768x768.jpg",
+      "id": "cvUkMTH"
+    },
+    {
+      "productName": "Giày Puma Caven White",
+      "price": 1550000,
+      "category": "puma",
+      "shortDesc": "Giày Puma Caven White",
+      "description": "𝐏𝐮𝐦𝐚 𝐂𝐚𝐯𝐞𝐧 _ Đẹp như AF1 mà rẻ hơn nhiều mọi người ơi\n• Deal order chỉ #155O\n    Chỉ còn size nam\nXem thêm tại #Hitrue_Puma_T11\n☁️ Cam kết chính hãng, new 100%, full box tag\n☁️ 𝙷𝚊̀𝚗𝚐 𝚢 𝚑𝚒̀𝚗𝚑 💯%\n☁️ Giảm 10.000 phí ship khi thanh toán chuyển khoản hoặc qua momo\n☁️ Chốt hàng qua tin nhắn. Vui lòng xem hàng kĩ trước khi mua, hàng mua rồi vui lòng không đổi trả.",
+      "imgUrl": "https://mlzxd8mkpaq6.i.optimole.com/w:510/h:510/q:mauto/https://hitrueauthentic.com/wp-content/uploads/2022/11/Giay-Puma-Caven-White.1.Hitrue.jpg",
+      "id": "SWoJU_2"
+    },
+    {
+      "productName": "Giày Nike SB Dunk Low Ben & Jerry’s Chunky Dunky",
+      "price": 995000,
+      "category": "nike",
+      "shortDesc": "Nike SB Dunk Low này bao gồm bầu trời xanh có mây và da đồng cỏ xanh ở trên với da bò giả trên các lớp phủ và lưỡi. Màu vàng Swooshes ở bên cạnh giống như kem tan chảy với da nhô ra mô hình tiêu chuẩn theo kiểu nhỏ giọt. Nội thất nhuộm màu, thương hiệu Nike theo phong cách Ben & Jerry ở phần gót giày và đế màu trắng và xanh lá cây hoàn thiện thiết kế hoàn hảo của đôi giày này",
+      "description": "Nike SB Dunk Low này bao gồm bầu trời xanh có mây và da đồng cỏ xanh ở trên với da bò giả trên các lớp phủ và lưỡi. Màu vàng Swooshes ở bên cạnh giống như kem tan chảy với da nhô ra mô hình tiêu chuẩn theo kiểu nhỏ giọt. Nội thất nhuộm màu, thương hiệu Nike theo phong cách Ben & Jerry ở phần gót giày và đế màu trắng và xanh lá cây hoàn thiện thiết kế hoàn hảo của đôi giày này",
+      "imgUrl": "https://sneakerhs.com/wp-content/uploads/2019/10/Giay-Nike-SB-Dunk-Low-Ben-Jerrys-Chunky-Dunky-giay-nike-bo-sua-rep-11-gia-re-ha-noi.jpg",
+      "id": "-Cn4P2K"
+    },
+    {
+      "productName": "Giày sục MLB big ball chunky mask new york yankees 3ASDCH133-50CRS màu trắng kem-36.5",
+      "price": 2180000,
+      "category": "mlb",
+      "shortDesc": "Giày Sục MLB Big Ball Chunky Mask New York Yankees 3ASDCH133-50CRS Màu Trắng Kem - phiên thiết kế phong cách thời trang đường phố hiện đại đang làm mưa làm gió đến từ thương hiệu MLB Korea. Với form dáng thể thao, thiết kế đẹp mắt cùng chất lượng cao cấp, đây hứa hẹn sẽ là mẫu giày đáng giá giúp bạn trẻ thể hiện cá tính và cái tôi của bản thân",
+      "description": "Giày Sục MLB Big Ball Chunky Mask New York Yankees 3ASDCH133-50CRS Màu Trắng Kem - phiên thiết kế phong cách thời trang đường phố hiện đại đang làm mưa làm gió đến từ thương hiệu MLB Korea. Với form dáng thể thao, thiết kế đẹp mắt cùng chất lượng cao cấp, đây hứa hẹn sẽ là mẫu giày đáng giá giúp bạn trẻ thể hiện cá tính và cái tôi của bản thân",
+      "imgUrl": "https://admin.thegioigiay.com/upload/product/2023/05/giay-suc-mlb-big-ball-chunky-mask-new-york-yankees-3asdch133-50crs-mau-trang-kem-36-5-64536a5798bba-04052023151831.jpg",
+      "id": "vmW0mrj"
+    }
+  ]
+}

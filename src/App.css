@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.img-hover:hover .hover-icon {
+    display: block;
+}
+
+.hover-icon {
+    display: none;
+}
+
+.name-products {
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+}
+
+.name-news {
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+}
+
+.hover-input:hover .search-input {
+    display: block;
+}
+
+.search-input {
+    display: none;
+}
+
+.header-none {
+    display: none;
+}
+
+.header-hover:hover .header-none {
+    display: block;
+}
+
+.header-none::before {
+    content: "";
+    background-color:transparent;
+    width: 100px;
+    height: 15px;
+    position: absolute;
+    top: -15px;
+    right:0px;
+}
+
+.search-input::before {
+    content: "";
+    background-color:transparent;
+    width: 250px;
+    height: 30px;
+    position: absolute;
+    top: -30px;
+    right:0px;
+}
+
+.background-image {
+    background-image: url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/120742751/original/d6c8f62779e700b6f5f13e0fe7aceab7c2e3f5e5/design-a-professional-any-size-banner-ads.jpg');
+}
+
+/* .bg-hsl {
+    background-color: hsl(0, 0%, 90%);
+    background: rgb(250, 250, 250);
+} */
+
+.start {
+    color: #ccc;
+}
+
+.span-start:hover .start {
+    color: #d26e4b;
+}
+
+/* .banner {
+    transition: transform 3s ease-in-out;
+    animation: banner-animation 3s infinite;
+}
+
+@keyframes banner-animation {
+    0% {
+      transform: translateX(100%);
+    }
+  
+    100% {
+      transform: translateX(0);
+    }
+  } */
+.icon-loading {
+    animation: icon-turn infinite 5s linear;
+}
+
+@keyframes icon-turn {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
